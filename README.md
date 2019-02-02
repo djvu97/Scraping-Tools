@@ -6,9 +6,9 @@ pip install pyautogui
 pip install tweepy(For Twitter)  
 https://chromedriver.storage.googleapis.com/index.html?path=2.46/ (Download any one according to your OS)  
 
-Twitter:-
-python Scroller.py <tweetlink> 
-Eg:- 
+Twitter:-  
+python Scroller.py <tweetlink>   
+Eg:-   
   python Scroller.py https://twitter.com/ILMentoring/status/1086010115151540224
 
 This will make a output.txt where a python dictionary type data will be stored  
