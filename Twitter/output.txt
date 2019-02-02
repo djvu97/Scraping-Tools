@@ -1,0 +1,608 @@
+{0: [{'@miguelrios': '"Give a man a plane ticket and he’ll fly for a day. Push '
+                     'a man from a plane and he’ll fly for the rest of his '
+                     'life."'},
+     {'@elonmusk': '3 guys standing on roof of skyscraper. 1st guy says '
+                   'updraft is so strong it blows you back on roof of you jump '
+                   'off. He jumps off & is blown back on roof. 2nd guy tries & '
+                   'goes splat. 3rd guy: that was a dirty trick Superman.'},
+     {'@flcnhvy': 'pic.twitter.com/rVdDwNVrMD'},
+     {'@KLaertes': 'ㅤ\n'
+                   '\n'
+                   'And do not forget that today together with '
+                   'https://twitter.com/tesla\xa0 \n'
+                   '\n'
+                   'we are launching an event where you can get 3 models! \n'
+                   '\n'
+                   'Read more \n'
+                   '\n'
+                   'https://bit.ly/2WySLl0\xa0\n'
+                   '\n'
+                   'ㅤ'},
+     {'@sibiriaTV': 'This very nice!'},
+     {'@Kirill_Miklyaev': 'I agree!'},
+     {'@Kirill_Miklyaev': 'cool'}],
+ 1: [{'@rickyberwick': 'pic.twitter.com/TwRXKsmZ9q'},
+     {'@PinguAltRight': '101 Reasons To Smash '
+                        '@rickyberwickpic.twitter.com/t5LWQ1kdUU'},
+     {'@dannecek666': "Bold of you to assume there's only 101 of them"}],
+ 2: [{'@ThisIsTheFatRat': 'It’s all about the journey but also about meme '
+                          'review. Better host it before the inevitable end of '
+                          'the Universe.'},
+     {'@Omega_a_': '"You better end that meme before the universe does it for '
+                   'you"'}],
+ 3: [{'@LopesForDays': 'pic.twitter.com/kT1F7uTUW0'},
+     {'@TigressCalliope': 'Love this. I mean, the difference between Elon and '
+                          'other "normal" billionaires is really just that '
+                          "he's still got his soul, and won't sell his days "
+                          'for gold.'},
+     {'@LopesForDays': 'Underrated tweet'},
+     {'@TigressCalliope': 'Beat it, "Elon."pic.twitter.com/1Op6o8eAfM'}],
+ 4: [{'@Smile_Lee': 'Thermodynamic equilibrium throughout the universe assumes '
+                    'we are in a closed system. Which is not consistent with '
+                    'what we observe, we are in an evolving system which '
+                    'implies that we exist in a universe that perpetuates '
+                    'non-equilibrium.\n'
+                    '\n'
+                    'Heat death of the universe is unlikely.'},
+     {'@TheTariqM': 'The universe would only be a non closed system if there '
+                    'is something outside of the universe feeding energy in.  '
+                    "There's no evidence of this."},
+     {'@Smile_Lee': 'There is substantial evidence that our universe is both '
+                    'receiving and losing energy at the quantum state, but '
+                    'this is not the closed system to which I refer. As it is '
+                    'only conjecture.\n'
+                    '\n'
+                    'I’m referring to the natural interaction of inhomogeneous '
+                    'systems, which are in constant flux.'},
+     {'@TheTariqM': 'Granted, but the existence of localized areas of negative '
+                    "entropy doesn't change the fact that the universe as an "
+                    'observable whole is entropically positive.'},
+     {'@TheTariqM': "As an enthusiastic amateur, I suspect that I'm arguing "
+                    "out of my depth.  Since I don't want to end up as one of "
+                    'those Twitter memes where someone looks like an idiot for '
+                    "trying to out-expert an expert, I think it's best that I "
+                    'just smile, nod, and back away slowly.'},
+     {'@Smile_Lee': 'You’re awesome, keep up the enthusiasm for knowledge. '
+                    'Your mind correctly formulated local and non-local '
+                    'equilibrium.\n'
+                    '\n'
+                    'Understanding non-equilibrium thermodynamics is key. '
+                    'Humanity will one day be able to manipulate energy and '
+                    'matter, our destiny is to climb the Kardashev '
+                    'scale.pic.twitter.com/gui5OpzJYQ'}],
+ 5: [{'@tweetsonamug': 'http://tweetsonamug.com\xa0pic.twitter.com/SzBE9WElyf'},
+     {'@OfficialJlipper': 'Top 10 secrets the government don’t want you to '
+                          'know about'}],
+ 6: [{'@HystadHystad': 'pic.twitter.com/P7YLehs9v4'},
+     {'@Seismic_Wand': 'nice^3 ?'}],
+ 7: [{'@Noahtimmss': 'pic.twitter.com/Amm6aSWEi4'},
+     {'@thedionbrown': 'That’s how meme stealing works'},
+     {'@Noahtimmss': 'Look at my account, pretty much 90% is meme stealing '
+                     'lmao'},
+     {'@thedionbrown': 'me too thanks'},
+     {'@OfficialJlipper': 'pic.twitter.com/foqm9aGyfR'},
+     {'@ManLikeAmin_A': 'pic.twitter.com/CsszCXzvLq'}],
+ 8: [{'@AstroKatie': 'Do you need someone to talk to about this?'},
+     {'@MadmanSpeaks': 'pic.twitter.com/n4yz3VyTK4'}],
+ 9: [{'@getpeid': "There's a lot we still don't know about the Universe."},
+     {'@iamPrateeshRK': 'How about a OnePlus x Tesla special edition?'},
+     {'@Frodo_Estiwar': 'Bring back the OnePlus X revamped!'}],
+ 10: [{'@VesicAco': 'pic.twitter.com/9vRC0ISun5'}],
+ 11: [{'@ZonePhysics': 'Amazing pic.twitter.com/UmLIKSIwlf'}],
+ 12: [{'@thedionbrown': 'Host Meme Reviewpic.twitter.com/XKsAqoR9hg'},
+      {'@dat_benja': 'Wii Sports Coach'}],
+ 13: [{'@loganuxas': '1v1 me playgrounds elon'},
+      {'@loganuxas': 'I just tweeted this and fortnite servers go down'},
+      {'@sakshamkalra098': "Something's fishy, elon!"}],
+ 14: [{'@JaneidyEve': "Life's journey... if you truly think about it, its "
+                      'insane if it all ends in heat death.'},
+      {'@JaneidyEve': 'So maybe it is all about our journey... "conciousness '
+                      'arose miraculously, enough reason to live '
+                      'passionately."pic.twitter.com/GhcybZ8pfq'},
+      {'@spaceRobot6': 'Your poetry is superb'},
+      {'@JaneidyEve': 'Thanks!'},
+      {'@2014Klander': "Loving a latin human being is so close Musk's cosmic "
+                       'journey. Thanks Evelyn for existing.'},
+      {'@JaneidyEve': 'Aww thanked me for my existence ♡ gee, thanks. Haha'}],
+ 15: [{'@naturenick': 'Watching the heat death:pic.twitter.com/FE5Vq96kjH'},
+      {'@NicoCaptain12': "That's my actual wallpaper"},
+      {'@Ibanezarus': 'Same.'},
+      {'@matt_maan': 'that’s my fake wallpaper'},
+      {'@StandBackBee': "that's my partially real but also partially fake "
+                        'wallpaper'},
+      {'@EmberOfAsh': 'What is a wallpaper and how do I stop it?'}],
+ 16: [{'@rocketisfine': 'Yes Elonpic.twitter.com/NUqVcjt3g7'}],
+ 17: [{'@420CholoSwag': 'If the sun is going to kill us host meme review'},
+      {'@TurtleGarfield': 'He is escaping to mars! Get him!'}],
+ 18: [{'@tylertrench31': 'pic.twitter.com/B86SahGMNl'}],
+ 19: [{'@rallyqt': 'pic.twitter.com/k1EylY45b8'}, {'@grahdayy': 'ianime'}],
+ 20: [{'@fatropea': '(Calling tech support)\n'
+                    '\n'
+                    'Universe: Hi, yes, everything is frozen and nothing is '
+                    'working. \n'
+                    '\n'
+                    'Tech Support: Have you tried rebooting?'},
+      {'@Gisbitus': '*big bang 2 happens*'}],
+ 21: [{'@Yanni2323': 'Muskianity - the only religion allowed on '
+                     'Marspic.twitter.com/4Cbr3Y99MR'}],
+ 22: [{'@_ill_ink': 'Indeed.pic.twitter.com/t4IiAy98mE'},
+      {'@martinengwicht': '@elonmusk can you please build a pirate '
+                          '#SpaceSailboat with real iron canons :D \n'
+                          '\n'
+                          'Pirates of the Space '
+                          '...pic.twitter.com/uwt4idppYF'}],
+ 23: [{'@AVUSANY': 'Our existence has a purpose to “something” and “ someone”. '
+                   'Nothing in the Universe was created purposelessly.. \n'
+                   '   it’s all about “the journey” in the Any  given end...'}],
+ 24: [{'@kjellsex': 'host meme review'},
+      {'@kjellsex': 'okay everyone who sees this stream ballads 1 by joji'},
+      {'@grahdayy': 'no, stream despacito'}],
+ 25: [{'@marvelwonderkat': 'Don’t stop believing, Elon.'},
+      {'@mojosusan': 'Great minds think alike! Look at the song I just '
+                     'tweeted'},
+      {'@ridethelight216': 'Cue in Journey song intro...'},
+      {'@mojosusan': 'Play'},
+      {'@ridethelight216': 'Not sure. I’m just a city boy...'},
+      {'@marvelwonderkat': 'Living in a lonely world'},
+      {'@ridethelight216': 'pic.twitter.com/ad5aMOahke'},
+      {'@mojosusan': 'pic.twitter.com/8pZ5hnf67A'}],
+ 26: [{'@fcain': 'New evidence that dark energy has been changing over time, '
+                 'so Big Rip could be the problem now. Still get billions of '
+                 'years of journey, '
+                 'though.https://www.nasa.gov/mission_pages/chandra/images/astronomers-find-dark-energy-may-vary-over-time.html\xa0'
+                 '…'}],
+ 27: [{'@toxic_chainsaw': 'Then you might as well just host meme review'},
+      {'@polina2002800': 'Nice profile pic my man'},
+      {'@toxic_chainsaw': 'Thanks Man U too'}],
+ 28: [{'@LaQuintaWillia8': 'Tesla took my trade-in and hasn’t paid finance '
+                           'company, 32 late. Initially lost my paperwork, '
+                           'harassed me for 2 wks, due to incident agreed to '
+                           'pay my 1st payment, it’s now 2 days late. I’ve '
+                           'texted and email multiple people, this needs to be '
+                           'addressed, thanks.'}],
+ 29: [{'@T3MudRacing': 'If you find the resonate frequency of a super '
+                       'conductor like dry ice, you could resonate the '
+                       'starship at the the right electromagnetic wave to '
+                       'oppose space radiation and keep the ship from burning '
+                       'up. It’s all about frequency and vibrations (Resonance '
+                       'is key)'},
+      {'@T3MudRacing': 'You could run cables inside starship that you could '
+                       'tune like a guitar string. Like a suspension bridge. '
+                       'Resonate molecules at the cold frequency (opposite of '
+                       'microwave vibrations) and enjoy the ride!'},
+      {'@T3MudRacing': 'Quartz cut into specific shape will give a perfect '
+                       'frequency. If the inner ply of star ship was quartz, '
+                       'when electricity was applied to quartz it would tune '
+                       'starships frequency. When the starships hull vibrated '
+                       'from turbulence it would produce piezoelectricity.'},
+      {'@T3MudRacing': 'If you build starship as a transducer, you could '
+                       'vibrate it to the same frequency as light and just '
+                       'ride the wave. Like a turtle riding the ocean current. '
+                       'Yeah buddy!'}],
+ 30: [{'@griffinanimator': 'pic.twitter.com/zkooaVXSL9'},
+      {'@griffinanimator': 'Elon Abides.  '
+                           'Moar.https://www.youtube.com/watch?v=inpJ4L_1lpY&t=25s\xa0'
+                           '…'}],
+ 31: [{'@RobertGaristo': 'As a physicist: the far-future (≫ trillion yrs) fate '
+                         'of the Universe is an open question, though the '
+                         'Earth will be lifeless with about a billion years.\n'
+                         '\n'
+                         "As a human: It's also about the journey of those who "
+                         'come after us.'}],
+ 32: [{'@Saba_Capital': 'part of my journey is seeing $TSLA at 420.2'},
+      {'@ssb168': "what's that .2?"},
+      {'@Saba_Capital': 'for the laughs'}],
+ 33: [{'@SnowWhite7IAM': 'Immortal Soul '
+                         'https://twitter.com/elonmusk/status/1059857655911444480?s=19\xa0'
+                         '… ∆'},
+      {'@LesProctor': 'Zing a ding ding! @POTUS would be proud... '
+                      '@SnowWhite7IAM flexing her trolling muscles! #TruthWins '
+                      '#GodAwaysWins #OurSoulsAreForever'}],
+ 34: [{'@OfficialJlipper': 'A new meme'}, {'@oof_anti': 'Meme Review!'}],
+ 35: [{'@DeanSheikh1': "Shouldn't you be working?"},
+      {'@eddiemac3356': "He doesn't work."},
+      {'@Jimg1126': 'He seems to be off the rails.'},
+      {'@eddiemac3356': 'or on'}],
+ 36: [{'@toursportal': 'Hold your breath while exploring all the Egyptian '
+                       'treasures with our unique 10 days Egypt tour to Cairo, '
+                       'Luxor, Aswan & Hurghada.\n'
+                       'http://bit.ly/2S28ERw\xa0pic.twitter.com/olPS2Grks4'}],
+ 37: [{'@realThorGod': "Let's make deal"},
+      {'@akaMrDude': 'A deal for Ragnarok instead of heat death? Yeah one does '
+                     'sound more interesting.'}],
+ 38: [{'@Pseudoplotinus': 'More accurately, its about CONVINCING yourself it’s '
+                          'about the journey to distract from the fact it all '
+                          'ends in heat '
+                          'death.https://twitter.com/elonmusk/status/1090703033573376000?s=21\xa0'
+                          '…'},
+      {'@Pseudoplotinus': 'pic.twitter.com/5jXU2MdI7f'}],
+ 39: [{'@AP4Liberty': "I've thought this for a long time"}],
+ 40: [{'@bookandbottle': 'I noticed you’re smoking a portobello mushroom'},
+      {'@ohthatkatherine': 'it really talks about that fatalistic viewpoint'},
+      {'@bookandbottle': 'I would say it is more perception than it is a scale '
+                         'under my butt that says that I’m the same weight as '
+                         'I was when I left.'},
+      {'@ohthatkatherine': 'mmmm speak on that, namely more on your butt (or '
+                           'mine) ::smokes out of a portabella mushroom::'}],
+ 41: [{'@Erik21337156': 'Love you Elon. I have a model three, and I am heavily '
+                        'invested in the company. I was just a bit concerned '
+                        'about you, especially at the beginning of the '
+                        'conference call. Step back and recharge, brother.'},
+      {'@SukLemon': 'Yes, try cranking one out right before the call...works '
+                    'for me every time'},
+      {'@ClubFordRacer': 'I wonder if the OP means "worried about you" as in '
+                         'worried fElon would go to jail for fraud type of '
+                         'worried or some other type of worried.  Asking for a '
+                         'friend.'}],
+ 42: [{'@d4_sucks_dick': '@oniincteam thought he was quoting the album'},
+      {'@oniincteam': 'One day he’ll listen to ONI INC.'}],
+ 43: [{'@drow_sorcerer': 'not a day goes by that i dont think about heat death '
+                         'hehe'},
+      {'@RealTauraRishel': ''},
+      {'@drow_sorcerer': 'every since i read death by black hole so many years '
+                         'ago, then lost it then got another copy then read it '
+                         'again, then read about heat death. for a whole year '
+                         'i had anxiety about it, then i let it go and was '
+                         'like you know what.....it is what it is'},
+      {'@ToysRUsKid4Life': 'I get it. When I was a kid I was affected by '
+                           'learning that mayflies only live for up to 24 '
+                           "hours. They don't even have mouths to eat. They "
+                           'exist only to reproduce, and to dance while they '
+                           'can.'},
+      {'@drow_sorcerer': 'I dance four to five days a week just for the joy'}],
+ 44: [{'@martinroe': 'I think about this literally every day. Have you ever '
+                     'read or seen Arcadia by Tom Stoppard? All about this '
+                     'exact question.'},
+      {'@personalbestnyc': 'Chaos vs order- with life in the middle balanced '
+                           'right on the edge.'}],
+ 45: [{'@rj_26_10': 'We are AI robots of someone else, gone rogue!'},
+      {'@DDGaddis': 'Beware of the AI used to rig elections but luckily with '
+                    '@elonmusk’s wisdom, we will become the AI and avert a '
+                    'catastrophe \n'
+                    '\n'
+                    '@APomplianohttps://twitter.com/ddgaddis/status/1090662032758751232?s=21\xa0'
+                    '…'}],
+ 46: [{'@MmeBear7': "William J. M. Rankine's musings on love, comparing it to "
+                    'potential energy, can be applied in the same vein to '
+                    "humanity's relationship with the .\n"
+                    '\n'
+                    '"Then\xa0L\xa0is a\xa0function\xa0of\xa0x, y, and\xa0z,\n'
+                    '“Of the kind which is known as\xa0potential.” \n'
+                    '\n'
+                    'He died a bachelor. pic.twitter.com/ZroNUGci87'}],
+ 47: [{'@MichellBasler': 'Heat death :Dpic.twitter.com/5Qe0kSFeD9'},
+      {'@MichellBasler': 'Did you know Phantoms only turn left? And they are '
+                         'stupid.'}],
+ 48: [{'@FRWessling': 'Yup.\n'
+                      'Welcome to existentialism, the next step, '
+                      'enlightenment, enjoy your journey.'},
+      {'@theTorfinnOlsen': 'pic.twitter.com/vTJAy5Mdxp'},
+      {'@FRWessling': 'Like all other fields the practitioners of psych* all '
+                      'bring different yet contributing perspectives.\n'
+                      'Personally,  Piaget, Jung, Skinner, Koffka (Gestalt) '
+                      'are the ones I have a natural affinity with.\n'
+                      'But, like I said everyone has a contribution to make, '
+                      "very Gestalt don't you know"}],
+ 49: [{'@MsKat20779432': 'The philanthropic will guide us all to a balanced '
+                         'journey because there are no accidents, every thing '
+                         "has it's time and place"},
+      {'@brett7three': 'I suspect we\'ll all be singing "kumbaya" in that '
+                       'great singularity of the future.'},
+      {'@MsKat20779432': 'Agreed'}],
+ 50: [{'@JustClaireBear_': 'Been an interesting ride thats all I can say '
+                           '#JustSayin'},
+      {'@alocinotasor': '...and getting more interesting. Hmmmm'},
+      {'@JustClaireBear_': 'Oh tell me more Truth Troll so many rumours about '
+                           'me and so many Trolls one more can’t hurt! So '
+                           'please I would love to hear THIS '
+                           'one!pic.twitter.com/WOUR1qj9MQ'},
+      {'@alocinotasor': "...well, it's all about... The people one least "
+                        'expects to meet in the strangest of places.'},
+      {'@JustClaireBear_': 'Well when I meet him I will let you know about it! '
+                           'I will take the selfie everyone has been wanting '
+                           'from me  Add a sunset over a snowy mountain '
+                           '#FANGIRL #WISHESpic.twitter.com/1T6L9Fktv6'},
+      {'@JustClaireBear_': 'Even wear all purple ?'},
+      {'@alocinotasor': "Don't overdo it."},
+      {'@JustClaireBear_': 'Okay I will sneak off into the sunset and just '
+                           'enjoy the sunrise'}],
+ 51: [{'@TinaIam111': 'The band?'},
+      {'@2d_p30ple': ''},
+      {'@TinaIam111': 'hope your day is great!'},
+      {'@2d_p30ple': 'Yours too Tina!'},
+      {'@TinaIam111': 'Tis indeed  thank you!'}],
+ 52: [{'@dezmondOliver': '@elonmusk We should start putting rockets upside '
+                         'down and mid day start firing. This will ObViOuSlY '
+                         'result in a Hohmann transfer orbit and put us '
+                         'further away from the sun avoiding heat death..'},
+      {'@EVASrebecca': 'Credit: Futurama'},
+      {'@dezmondOliver': 'I’ve never watched futurama.. kind of just a common '
+                         'thing one would do'},
+      {'@EVASrebecca': 'They did a cute bit on the idea, after using the poles '
+                       'as an ice machine failed'}],
+ 53: [{'@SciFiClimateGuy': 'The journey is the destination.'}],
+ 54: [{'@CosmicKid1598': '@Science_George check this out !!'},
+      {'@Science_George': 'For all biological lifeforms it already is all '
+                          "about the journey, because immortality isn't a "
+                          'feature we possess.'}],
+ 55: [{'@CardboardPastry': 'Has this journey led to you finding out your '
+                           'familial relations with Chad Muska?'},
+      {'@Phantom_McBane': "Thank you for joining the movement, we're gonna "
+                          'make history.'}],
+ 56: [{'@shariq': 'Unless we can break out somehow'}],
+ 57: [{'@peoplesbutler': 'Philosophy is no longer dead- RIP Stephen Hawkins'},
+      {'@dwatson5044': "I don't believe it ever was..."},
+      {'@peoplesbutler': 'Well, ... on whatgrounds he felt this statement was '
+                         'neccessary I cannot be sure. I suspect there would '
+                         'have been some relatable truth in the statement.\n'
+                         '\n'
+                         "Subjective though yes, but I mean don't you think "
+                         '@elonmusk helps re-ignite any of that flame, that '
+                         'may have dimmed '
+                         'otherwise?pic.twitter.com/QeqmT1pOp0'},
+      {'@dwatson5044': 'Yes, very much so, although many others do have closed '
+                       'eyes and minds, but never for myself.\n'
+                       'It is good to have someone help ignite our inner '
+                       'values.'},
+      {'@peoplesbutler': 'Yes... indeed'}],
+ 58: [{'@MagaMediaNews': 'So many Men, so little '
+                         'timepic.twitter.com/8nxCE0mJhH'},
+      {'@MagaMediaNews': 'https://youtu.be/57kX_8gTdM0'}],
+ 59: [{'@stargatecomand': '@AlanAnaya23'},
+      {'@AlanAnaya23': 'por supuesto que lo único que importa es el camino, la '
+                       'meta está vacía'}],
+ 60: [{'@choptopmoseley': 'Time to work on a fire-proof soul'}],
+ 61: [{'@JenniferSensiba': 'Assuming we avoid natural death, sun death, and '
+                           'other such milestones, and live a trillion years, '
+                           "there's a chance we could find a way to escape to "
+                           'some other part of the multiverse before this one '
+                           'gets too cold.'},
+      {'@Not_A_Chairman': 'Build a simulation. Within the simulation. Need a '
+                          'metroscka brain. No clue how to spell it'}],
+ 62: [{'@AsianStockTradr': '@elonmusk there are people at risk of dying from '
+                           'cold in your cars right here, right now on planet '
+                           'earth. $TSLA'}],
+ 63: [{'@James_McGeachie': 'Our journey will almost certainly end long before '
+                           "heat death.  But there's no way heat death is a "
+                           'hard end.  I cannot fathom the idea that our '
+                           'universe is not predated by an infinite cycle of '
+                           'universes.  Nothing else makes sense. There will '
+                           'always be a reset switch.'},
+      {'@davidwalton06': 'At a talk at uni, a Novel Prize winning Physicist '
+                         'told us the Maths for a singularity and the Maths '
+                         'for the heat death (no indication of direction '
+                         'because everything is spread even) maps perfectly. '
+                         'This idea is best shown on Futurama. The Heat Death '
+                         'is the Singularity.'}],
+ 64: [{'@CleopatraOwen17': '.@DJSnM \n'
+                           '\n'
+                           'Courage to be part of creation of a more exciting '
+                           'future (the opposite of eliminating bricks)  makes '
+                           'a lot more sense to me than a life battling '
+                           'entropy prior to inevitable '
+                           'death.pic.twitter.com/newU7pRaEc'},
+      {'@CleopatraOwen17': '1. @rivatez This is the most profound thing I ever '
+                           'shared on Twitter. What we have here is the notion '
+                           'of dropping a Boring Company brick into a '
+                           'fluid-filled test tube inserted from North to '
+                           'South Pole - where naturally we can expect it to '
+                           'come to rest at the center of the '
+                           'Earth.pic.twitter.com/huY9OwpmUT'},
+      {'@CleopatraOwen17': '2. What E=MC² tells us, is the brick will gain '
+                           'relativistic mass when energy is added to it to '
+                           'take it to space (in order to drop it in the tube) '
+                           'and lose mass in relation to E/C², the loss of '
+                           'potential energy as it falls to the center of the '
+                           'Earth. The furthest Earthly down.'},
+      {'@CleopatraOwen17': '3. The mass of the brick gained or lost by lifting '
+                           'and falling is the ordinary kind it has on the '
+                           'ground. At the center of the Earth it can’t fall '
+                           'further. Despite losing a fraction of it’s mass '
+                           'its still a brick. Question is where is “down" to '
+                           'drop it where the brick disappears?'},
+      {'@CleopatraOwen17': '4. The normal answer to annihilating mass (like a '
+                           'brick) is to suggest somehow causing it to undergo '
+                           'nuclear fission, like an atom bomb. One could then '
+                           'look for the brick in the future and note that it '
+                           'doesn’t exist - but the energy representing the '
+                           'mass of the brick still does.'},
+      {'@CleopatraOwen17': '5. So the correct answer to getting rid of a brick '
+                           'altogether (including the energy that represents '
+                           'the brick in proportion to E=MC²) would be to '
+                           'somehow drop the whole brick, not just to the '
+                           'centre of a gravity well (like the Earth) but all '
+                           'the way back to the beginning of '
+                           'Time.pic.twitter.com/pe7S51S5wa'},
+      {'@CleopatraOwen17': '5. This is profoundly uncommon sense. While it is '
+                           'common sense it REFUTES the Big Bang and the Heat '
+                           'Death of the Universe.\n'
+                           '\n'
+                           'It says The Big Bang was’t all Energy and no Mass. '
+                           'It was no Energy AND no Mass. It says Mass AND '
+                           'Energy of the Universe INCREASES as a function of '
+                           'Time.'},
+      {'@CleopatraOwen17': '6. This ought to been obvious the first time we '
+                           'interrupted the timeline of some Mass [of Uranium] '
+                           '(so that it didn’t continue to exist into the '
+                           'future). Just like sending it back to the '
+                           'beginning of Time and this happened in exchange, '
+                           'in the presentpic.twitter.com/sAF5XJJ2yI'}],
+ '@0SCUR0': 'its not about journey it is about earth wind and fire',
+ '@30andAlone': 'This universe will only die once PewDiePie reviews it.',
+ '@ATX_fight_club': 'Light print there brother...',
+ '@AkshBansal6': 'Well as they say " Its not about where you reach in your '
+                 'life, the more important part is how you reached"',
+ '@Alcer16': "@elonmusk is the closest thing we got of Tony Stark and it's my "
+             'wet dream',
+ '@AreYouTeambou': 'optimistic nihilism.',
+ '@Baphlex': 'Earth is a disc',
+ '@BrenCasts': 'Cheers Elon.',
+ '@CDQian': 'I think if heat death does happen, then the entropy is actually '
+            "back to zero because everything is the same means there's "
+            'nothing. Universe will be born again out of nothing.',
+ '@CEO': "I hope this isn't a Tabasco ad. It's not even on the spicy radar.",
+ '@ChaseNeiz': 'Hey Elon, have you ever heard or thought about the big crunch '
+               'or big bounce theory? It seems to make a lot of sense to me! '
+               "I'm just wondering if this is all still possible after a heat "
+               'death?',
+ '@DJChizzles': 'Have you been smoking again?',
+ '@DevinMurrell': '“Don’t stop belieeeeeving!”',
+ '@Eftgenie0_o': 'pic.twitter.com/qwWzNqjcJN',
+ '@EstiviG': 'What journey? We live in a simulation.',
+ '@FKTVis': "That's true of any death, not just the unverse's",
+ '@Fin_Van_G': 'pic.twitter.com/yyRvwjLaHk',
+ '@FlyHighJason': "So in other words Don't Stop Believein",
+ '@HarrySkotch': 'Umm i know uts off topic.. When r u hostung meme review',
+ '@Imthem2': 'even simulations need simulators, matter should not come from '
+             'nothing, a universe that is god would need to come from '
+             'somewhere\n'
+             'what is the container for infinity? something cannot come from '
+             'nothing',
+ '@Intelibron': 'Buy BITCOIN',
+ '@JBTheCryptoKing': 'Did you smoke again? $420 says u did .',
+ '@KFalcomer': "... The journey doesn't ever truly end, even after the "
+               'universe "ends".',
+ '@Kachenar': 'My leg is bandaged up put in a immobilizer with a circulating '
+              "cold pack on it. i am going home in a few days & I don't have "
+              'two pennies to rub together. my need is great & all I have is '
+              'lint in my pocket we all have the ability to affect one '
+              'anothers life but will we?pic.twitter.com/dCK3IBoVoc',
+ '@LanaPage': 'pic.twitter.com/qtsQFNmzz7',
+ '@LastHomoOnEarth': 'Hey Elon can you join this discord server with maybe 20 '
+                     'ppl in it so i get mod?https://discord.gg/dDRB7yR',
+ '@LukefromDuke': '"The Last Question" by Asimov: '
+                  'https://www.physics.princeton.edu/ph115/LQ.pdf',
+ '@MARINAVALOVA2': 'in general, entropy is completely stopping, good and '
+                   'sufficiently large forces, and responsibility for our '
+                   'universe will be required. '
+                   'https://en.m.wikipedia.org/wiki/Mechanical_equilibrium\xa0'
+                   '…',
+ '@MaridGenie': 'Interstellar',
+ '@MarketAgnostic': 'I guarantee on every nickel you have it won’t happen in '
+                    'our lifetime...',
+ '@MatildaAlistar': 'pic.twitter.com/N9OMhOqDKm',
+ '@MaxArtifacts': 'https://youtu.be/qsN1LglrX9s',
+ '@MichellBasler': 'But I thought you didn’t want to set the world on '
+                   'fire?pic.twitter.com/ovJGICDb8n',
+ '@MrEvilMusk': 'I personally prefer the term "Eat Death" as it is the '
+                'universe eating up all the available energy',
+ '@NJOverclocked': "That's why you should host meme review",
+ '@Nerd_Junkie_': '#WednesdayWisdompic.twitter.com/2aAm8oDRQa',
+ '@PlayerZX1': 'when is the episode of meme review happening',
+ '@PrimeCreator2': 'ARE you PROJECTING ON US elon?\n'
+                   '3[]9\n'
+                   '111\n'
+                   '#Qanon\n'
+                   '#KtSA\n'
+                   '#STORM\n'
+                   '#MAGA\n'
+                   '#WWG1WGA\n'
+                   '#NATIONALBOOMDAY\n'
+                   '#NoCoincidence\n'
+                   '#NeverForget\n'
+                   '#KnowYourMil',
+ '@RenkoStyranka': 'You know you have 280 characters, right?',
+ '@SamanthaDreamy': 'The end of the Earth will come before the end of the Sun '
+                    'will come before the end of the universe... but ok. I '
+                    'feel you, I do. I really do. Wish people would focus on '
+                    'our universal status and not bullshit.',
+ '@SciGuyKai': "I've pondered upon this topic for many years.\n"
+               '\n'
+               'Conclusion:\n'
+               '\n'
+               'We must discover a way to travel to another universe or into a '
+               'higher dimension.\n'
+               '\n'
+               'Considering how specific physics must be for us to exist '
+               'physically, we may have to become digital... transfer human '
+               'conciousness to AI.',
+ '@TheCodeLearn': 'Check This '
+                  '>>>https://bloglyric.com/school-closings-wisconsin-and-business-government-offices/\xa0'
+                  '…',
+ '@Thesham1337': 'A big crunch- although improbable given the current '
+                 'observable scenarios- is still something worth considering. '
+                 'Maybe there is a limit to expansion.',
+ '@ThompsonSpeaks': 'pic.twitter.com/XeWAlXa6ny',
+ '@Tinbelly': '#ThoughtOfTheDay\n'
+              '\n'
+              'I wonder if aliens will one day land in your Tesla...?\n'
+              '\n'
+              '(or crash into a car park)\n'
+              '\n'
+              'P.s \n'
+              '\n'
+              'Where does all our money go?\n'
+              '\n'
+              "NASA LIES.... it's not rocket "
+              'science.https://www.youtube.com/watch?v=f4Yw8EINSOM\xa0…',
+ '@W4BB17': 'There is no time.\n'
+            '\n'
+            'Which way does the tire spin?pic.twitter.com/vGJ57BAwUU',
+ '@WayneNC': "Well, maybe the bible is correct when it mentions 'fire and "
+             "brimstone.'",
+ '@Wez1ey': 'Snap out of it...! There’s work to be done  '
+            '#Squirrelpic.twitter.com/WmRf20Zr1r',
+ '@WombatPickled': 'Wanker',
+ '@XRPBella': 'Have you heard of XRP Ripple? :)',
+ '@Xero_Is_YourGod': 'The amount of times you didn\'t use "the" in that '
+                     'sentence really disturbs me',
+ '@aSciEnthusiast': 'If you wanna talk it out, hit me up in the DMs bro',
+ '@abcliveitcom': "There'll be another wave to catch",
+ '@aestheticmukul': 'Enlightened Musk',
+ '@caliberbeats': 'Elon.exe has stopped working',
+ '@cedrick_jalbert': 'Just host meme review man',
+ '@codetsunami': "If you pick a random point on the universe's timeline "
+                 "there's an infinitely larger number of points where the "
+                 'universe has already undergone heat death. So how did we get '
+                 'infinitely lucky?',
+ '@earthtoleo': 'pic.twitter.com/ysKqzyEVB7',
+ '@elonmusk': 'Entropy is the source and the end of life in this instance of '
+              'the Multiverse\n'
+              'https://en.m.wikipedia.org/wiki/Heat_death_of_the_universe\xa0…',
+ '@flexseaI': 'pic.twitter.com/HTSFvSeHDE',
+ '@frederic_rosier': 'pic.twitter.com/2DvzHfFq90',
+ '@gonizaimi': "And that's what Tesla is all about. The journey.\n"
+               'Now please go host meme review',
+ '@iamakshay_patil': 'Universe is doing all this activity to achieve no '
+                     'activity.pic.twitter.com/gcOKNHlJxj',
+ '@jackgrove2': 'It may be for the Universe but not for us.',
+ '@justjesshand': 'did u think u sounded smart here. ugly.',
+ '@light_phos': 'Plant will kill us allpic.twitter.com/nvxt4ypgAw',
+ '@matt_maan': 'Heat death was the inevitable end of my pizza pocket just now',
+ '@mikemallazzo': 'Wheel in the sky keeps on turning.....',
+ '@mrfiege': "I've also spent time in Saskatchewan "
+             'sirpic.twitter.com/X5dPWltRPq',
+ '@mtndewsuperstar': 'Haha very true ! Can I have 100 thousand dollars please',
+ '@nikanth': "Let people enjoy it. Don't over work them.",
+ '@nofalta': 'callate lonji',
+ '@psutympany': 'I think frozen death now... polar vortex -11 F degrees and '
+                'wind chill -40 F plus a Consumers Energy fire at a major '
+                'distribution plant  with an ER request to turn thermostats '
+                'down to 65 to avoid nat gas product interruption. Yikes.',
+ '@re_lights': 'pic.twitter.com/A8iADhPaql',
+ '@relaw_': 'buy #Bitcoin :)',
+ '@remayunanto': "but that journey wouldn't be complete if you are not HOSTING "
+                 'THE MEME REVIEW',
+ '@robinivski': 'Working on capex guidance I seepic.twitter.com/b96xIrdQOt',
+ '@ruespieler': 'How could it be about the destination? It’s not as if your '
+                'life is all about the crash landing on Mars bit. (Or '
+                'whatever.) I mean unless it’s really a calculation thats '
+                'gonna read out The Question or something. And then I guess '
+                'the end is the goal. For the next level up, anyway.',
+ '@sdbudfarms': 'It is all about Journey.https://youtu.be/MxGEVIvSFeY',
+ '@soul_in_transit': 'Dear @elonmusk start doing #Yoga and #Pranayama to come '
+                     'out of this stage. World needs you and your discoveries '
+                     'and #entrepreneurship',
+ '@spudfootball31': 'You are correct it is about the journey but it’s a '
+                    'journey to a greater place and it’s our job to invite as '
+                    'many as possible to come along.  John 3:16',
+ '@supremum2222': 'Ne seri Elone',
+ '@theTorfinnOlsen': '@josh_um_clark told me that we could create a new '
+                     'universe',
+ '@vishal7sawant': "=='Part of the Journey is the end'. Elon Musk == Tony "
+                   'Stark!!! Confirmed!',
+ '@west1fsu': 'pic.twitter.com/RT2CTTcM8w',
+ '@willaslater': 'So much talk of endings... Persephone will escape and bring '
+                 'the Spring.',
+ 'MainTweet': 'If heat death will be inevitable end of Universe, it actually '
+              '*is* all about journey 🤔'}
