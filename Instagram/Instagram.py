@@ -7,6 +7,8 @@ from bs4 import BeautifulSoup
 from pprint import pprint
 import sys
 import subprocess
+import urllib.request
+import traceback
 
 link=sys.argv[1]
 print(sys.argv[2])
@@ -26,9 +28,9 @@ browser.quit()
 Images=[]
 i=0
 for image in soup.findAll('img'):
-        Images.append(image['src'])
-        str1="curl -o "+str(i)+".jpg "+image['src']
-        print(str1)
-        subprocess.call(str1,shell=True)
+        try:
+                urllib.request.urlretrieve(str(image['src']), str(i)+".jpg")
+        except:
+                pass
         i+=1
 print(len(Images))
