@@ -16,8 +16,8 @@ If the key is a number then inner list will be replies threads in that comments
 If the key is a twitter handle then there is only one reply from that person no one else replied to that reply
 If the key is MainTweet then that tweet is the main Tweet of the Post
   
-Instagram:-
+Instagram:-  
 python Instagram.py <profile> <Number of scrolls you want to make(to load new pictures also)>  
 Eg:-
-  python Instagram.py https://www.instagram.com/instagram/ 7
+  python Instagram.py https://www.instagram.com/instagram/ 7  
 After the execution, you will get all the picture downloaded(which were loaded due to those many page down clicks)  
